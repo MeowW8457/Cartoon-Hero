@@ -1,0 +1,70 @@
+body{
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/30563504-c3bc-42af-935b-35098674ade3/d2wpnk2-18ac75ed-31a6-4f7b-b898-30ff0a61c000.png/v1/fit/w_800,h_600,q_70,strp/hidden_leaf_background_by_tails19950_d2wpnk2-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjAwIiwicGF0aCI6IlwvZlwvMzA1NjM1MDQtYzNiYy00MmFmLTkzNWItMzUwOTg2NzRhZGUzXC9kMndwbmsyLTE4YWM3NWVkLTMxYTYtNGY3Yi1iODk4LTMwZmYwYTYxYzAwMC5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.6gBNkAJMvFnNG7lPPbiSm5J-_WvCAnGuMGwJ9Sysy9Y);
+    font-family: cursive, Arial, sans-serif;
+    margin: 0;
+    font-size: 20px;
+    line-height: 30px;
+}
+header{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+
+}
+header h1{
+    font-size: 60px;
+}
+header img{
+    border-radius: 165px;
+    width: 300px;
+    border: 15px solid skyblue;
+}
+ul li a{
+    color: lightgray;
+}
+h1, h2{
+    font-family: "Kaushan Script", cursive;
+    font-size: 40px;
+}
+.kaushan-script-regular {
+  font-family: "Kaushan Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+main img{
+    max-width: 100%;
+}
+h2{
+    color:chartreuse;
+    margin: 40px 0 10px;
+}
+a:hover{
+    color: blueviolet;
+    background-color: wheat;
+    border-radius: 8px;
+}
+footer{
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+    background-color: yellow;
+    color: black;
+    font-family: "Kaushan Script", cursive;
+    text-transform: capitalize;
+}
+p.caption{
+    color:lightgreen;
+    font-style: italic;
+    margin-top: 0;
+}
